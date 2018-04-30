@@ -1,8 +1,8 @@
-Manifest-Version: 1.0.0.201804242119
+Manifest-Version: 1.0.0.201804262229
 TIBCO-BW-Application: META-INF/TIBCO.xml
 Bundle-SymbolicName: helloworld.application
 Bundle-Name: Helloworld Application
-Bundle-Version: 1.0.0.201804242119
+Bundle-Version: 1.0.0.201804262229
 Bundle-ManifestVersion: 2
 Bundle-Vendor: TIBCO Software Inc.
 TIBCO-BW-ConfigProfile: META-INF/default.substvar
